@@ -1,5 +1,7 @@
 # Shopping Cart
 
+![Screenshot 2024-12-08 033637](https://github.com/user-attachments/assets/cab257ef-810c-4b06-b5f9-6eef81902652)
+
 This project was developed as part of a programming logic course by Alura.
 
 ## How It Works
